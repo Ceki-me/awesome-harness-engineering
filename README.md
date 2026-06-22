@@ -23,6 +23,34 @@
   </p>
 </div>
 
+<!-- SPONSORS:START -->
+<div align="center">
+
+<sub><b>SPONSORS</b></sub>
+
+<table align="center">
+<!-- ATLAS-CLOUD:START -->
+<tr><td align="center" width="640">
+  <a href="https://www.atlascloud.ai/?utm_source=awesome-harness-engineering&utm_medium=readme&utm_campaign=sponsor">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/sponsors/atlas-cloud-dark.png">
+      <img alt="Atlas Cloud" src="assets/sponsors/atlas-cloud-light.png" width="180">
+    </picture>
+  </a>
+  <p><a href="https://www.atlascloud.ai/?utm_source=awesome-harness-engineering&utm_medium=readme&utm_campaign=sponsor"><b>Atlas Cloud</b></a> is a full-modal AI inference platform that gives developers a single AI API to access video generation, image generation, and LLM APIs. Instead of managing multiple vendor integrations, you connect once and get unified access to 300+ curated models across all modalities.</p>
+  <sub>Check out Atlas Cloud's new <a href="https://www.atlascloud.ai/console/coding-plan?utm_source=awesome-harness-engineering&utm_medium=readme&utm_campaign=sponsor">coding plan promotion</a> for more budget-friendly API access.</sub>
+</td></tr>
+<!-- ATLAS-CLOUD:END -->
+<!-- Add a sponsor: copy one <tr>…</tr> row here -->
+</table>
+
+<sub>Sponsorships keep this list maintained &amp; independent. <a href="https://github.com/ai-boost/awesome-harness-engineering/issues/new?title=Sponsorship+inquiry">Become a sponsor →</a></sub>
+
+</div>
+<!-- SPONSORS:END -->
+
+---
+
 **Harness engineering** is the discipline of designing the scaffolding — context delivery, tool interfaces, planning artifacts, verification loops, memory systems, and sandboxes — that surrounds an AI agent and determines whether it succeeds or fails on real tasks.
 
 This list focuses on the *harness*, not the model. Every component here exists because the model can't do it alone — and the best harnesses are designed knowing those components will become unnecessary as models improve.
